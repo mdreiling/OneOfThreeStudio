@@ -86,7 +86,11 @@ a:hover {
 .grid-container {
     padding: 30px 30px 15px 30px !important;
     margin-bottom: 15px;
-    overflow: scroll;
+    overflow: auto;
+}
+
+.card {
+    height: 275px;
 }
 
 .button {
