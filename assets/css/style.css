@@ -90,7 +90,15 @@ a:hover {
 }
 
 .card {
-    height: 275px;
+    height: 325px;
+}
+
+.card-info {
+    height: 60px;
+}
+
+.portfolio-button {
+    height: 3rem;
 }
 
 .button {
