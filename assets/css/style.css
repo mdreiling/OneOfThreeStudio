@@ -1,0 +1,116 @@
+/* Logo Colors --- Green: #0DB14B | Blue: #00BCDD | Purple: #7A2A90 | Grey: #9F9EA7 */
+
+body {
+    font-family: upgrade-lights, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.header {
+    border-bottom: solid 2px #9F9EA7;
+    padding: 0px 30px 0px 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-family: upgrade,sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color:#9F9EA7;
+}
+
+h3 {
+    font-family: inherit;
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+
+a:hover {
+    font-family: inherit;
+    color: #00BCDD;
+    margin-bottom: 0px;
+}
+
+h4 {
+    font-family: inherit;
+    /* font-family: upgrade, sans-serif; */
+    font-weight: 400;
+    font-style: normal; 
+    margin-bottom: 0px;
+}
+
+h5 {
+    font-family: inherit;
+    color: #ffffff;
+    margin-bottom: 0px;
+}
+
+h6 {
+    font-family: inherit;
+}
+
+.active-page {
+    font-family: upgrade, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a:hover {
+    font-family: inherit;
+    color: #00BCDD;
+    margin-bottom: 0px;
+}
+
+#headerText {
+    padding: 10px 30px 3px 30px;
+    font-family: upgrade,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#menuBar {
+    background-color: #0DB14B;
+    color: #ffffff;
+    padding: 15px 30px 15px 30px;
+    height: 100vh;
+}
+
+#bodyContent {
+    padding: 15px 30px 15px 30px !important;
+    height: 100vh;
+}
+
+.grid-container {
+    padding: 30px 30px 15px 30px !important;
+    margin-bottom: 15px;
+    overflow: scroll;
+}
+
+.button {
+    background-color: #9F9EA7;
+    font-family: upgrade, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.thumbnail {
+    max-width: 150px;
+}
+
+#photoOfMe {
+    max-width: 140px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100% !important;
+    background-color: #7A2A90 !important;
+    color: #ffffff;
+    border-top: solid 2px #9F9EA7;
+    text-align: center;
+    padding: 10px;
+}
